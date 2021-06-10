@@ -67,6 +67,7 @@ namespace XBDAppPortalWebFormAppPrj
             }
         }
 
+        //this moethod will be removed later
         protected void ddlAppName_SelectedIndexChanged(object sender, EventArgs e)
         {
             //var selectAppName = this.ddlAppName.SelectedValue;

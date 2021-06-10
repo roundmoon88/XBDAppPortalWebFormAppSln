@@ -4,3 +4,9 @@ C:\MyPractices\Projects\XBDAppPortals\DotNETFRK\WebForm\XBDAppPortalWebFormAppSl
 C:\MyPractices\Projects\XBDAppPortals\DotNETFRK\WebForm\XBDAppPortalWebFormAppSln\XBDAppWebFormApp.DTO\obj\Debug\XBDAppWebFormApp.DTO.dll
 C:\MyPractices\Projects\XBDAppPortals\DotNETFRK\WebForm\XBDAppPortalWebFormAppSln\XBDAppWebFormApp.DTO\obj\Debug\XBDAppWebFormApp.DTO.pdb
 C:\MyPractices\Projects\XBDAppPortals\DotNETFRK\WebForm\XBDAppPortalWebFormAppSln\XBDAppWebFormApp.DTO\obj\Debug\XBDAppWebFormApp.DTO.csprojAssemblyReference.cache
+C:\Users\richard\Desktop\XBDAppPortalWebFormAppSln.Git\XBDAppWebFormApp.DTO\bin\Debug\XBDAppWebFormApp.DTO.dll
+C:\Users\richard\Desktop\XBDAppPortalWebFormAppSln.Git\XBDAppWebFormApp.DTO\bin\Debug\XBDAppWebFormApp.DTO.pdb
+C:\Users\richard\Desktop\XBDAppPortalWebFormAppSln.Git\XBDAppWebFormApp.DTO\obj\Debug\XBDAppWebFormApp.DTO.csproj.AssemblyReference.cache
+C:\Users\richard\Desktop\XBDAppPortalWebFormAppSln.Git\XBDAppWebFormApp.DTO\obj\Debug\XBDAppWebFormApp.DTO.csproj.CoreCompileInputs.cache
+C:\Users\richard\Desktop\XBDAppPortalWebFormAppSln.Git\XBDAppWebFormApp.DTO\obj\Debug\XBDAppWebFormApp.DTO.dll
+C:\Users\richard\Desktop\XBDAppPortalWebFormAppSln.Git\XBDAppWebFormApp.DTO\obj\Debug\XBDAppWebFormApp.DTO.pdb

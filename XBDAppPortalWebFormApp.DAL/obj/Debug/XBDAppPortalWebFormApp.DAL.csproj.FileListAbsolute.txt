@@ -16,3 +16,12 @@ C:\Users\richard\Desktop\XBDAppPortalWebFormAppSln.Git\XBDAppPortalWebFormApp.DA
 C:\Users\richard\Desktop\XBDAppPortalWebFormAppSln.Git\XBDAppPortalWebFormApp.DAL\obj\Debug\XBDAppPortalWebFormApp.DAL.csproj.CopyComplete
 C:\Users\richard\Desktop\XBDAppPortalWebFormAppSln.Git\XBDAppPortalWebFormApp.DAL\obj\Debug\XBDAppPortalWebFormApp.DAL.dll
 C:\Users\richard\Desktop\XBDAppPortalWebFormAppSln.Git\XBDAppPortalWebFormApp.DAL\obj\Debug\XBDAppPortalWebFormApp.DAL.pdb
+C:\Users\richard\Desktop\Git\XBDAppPortalWebFormAppSln.Git\XBDAppPortalWebFormApp.DAL\bin\Debug\XBDAppPortalWebFormApp.DAL.dll
+C:\Users\richard\Desktop\Git\XBDAppPortalWebFormAppSln.Git\XBDAppPortalWebFormApp.DAL\bin\Debug\XBDAppPortalWebFormApp.DAL.pdb
+C:\Users\richard\Desktop\Git\XBDAppPortalWebFormAppSln.Git\XBDAppPortalWebFormApp.DAL\bin\Debug\XBDAppWebFormApp.DTO.dll
+C:\Users\richard\Desktop\Git\XBDAppPortalWebFormAppSln.Git\XBDAppPortalWebFormApp.DAL\bin\Debug\XBDAppWebFormApp.DTO.pdb
+C:\Users\richard\Desktop\Git\XBDAppPortalWebFormAppSln.Git\XBDAppPortalWebFormApp.DAL\obj\Debug\XBDAppPortalWebFormApp.DAL.csproj.AssemblyReference.cache
+C:\Users\richard\Desktop\Git\XBDAppPortalWebFormAppSln.Git\XBDAppPortalWebFormApp.DAL\obj\Debug\XBDAppPortalWebFormApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\richard\Desktop\Git\XBDAppPortalWebFormAppSln.Git\XBDAppPortalWebFormApp.DAL\obj\Debug\XBDAppPortalWebFormApp.DAL.csproj.CopyComplete
+C:\Users\richard\Desktop\Git\XBDAppPortalWebFormAppSln.Git\XBDAppPortalWebFormApp.DAL\obj\Debug\XBDAppPortalWebFormApp.DAL.dll
+C:\Users\richard\Desktop\Git\XBDAppPortalWebFormAppSln.Git\XBDAppPortalWebFormApp.DAL\obj\Debug\XBDAppPortalWebFormApp.DAL.pdb

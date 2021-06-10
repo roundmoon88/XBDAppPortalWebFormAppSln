@@ -1,0 +1,6 @@
+C:\MyPractices\Projects\XBDAppPortals\DotNETFRK\WebForm\XBDAppPortalWebFormAppSln\XBDAppWebFormApp.DTO\bin\Debug\XBDAppWebFormApp.DTO.dll
+C:\MyPractices\Projects\XBDAppPortals\DotNETFRK\WebForm\XBDAppPortalWebFormAppSln\XBDAppWebFormApp.DTO\bin\Debug\XBDAppWebFormApp.DTO.pdb
+C:\MyPractices\Projects\XBDAppPortals\DotNETFRK\WebForm\XBDAppPortalWebFormAppSln\XBDAppWebFormApp.DTO\obj\Debug\XBDAppWebFormApp.DTO.csproj.CoreCompileInputs.cache
+C:\MyPractices\Projects\XBDAppPortals\DotNETFRK\WebForm\XBDAppPortalWebFormAppSln\XBDAppWebFormApp.DTO\obj\Debug\XBDAppWebFormApp.DTO.dll
+C:\MyPractices\Projects\XBDAppPortals\DotNETFRK\WebForm\XBDAppPortalWebFormAppSln\XBDAppWebFormApp.DTO\obj\Debug\XBDAppWebFormApp.DTO.pdb
+C:\MyPractices\Projects\XBDAppPortals\DotNETFRK\WebForm\XBDAppPortalWebFormAppSln\XBDAppWebFormApp.DTO\obj\Debug\XBDAppWebFormApp.DTO.csprojAssemblyReference.cache

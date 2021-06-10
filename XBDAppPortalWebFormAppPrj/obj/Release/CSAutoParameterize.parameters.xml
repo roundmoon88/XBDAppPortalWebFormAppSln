@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="connStr-Web.config Connection String" description="connStr Connection String used in web.config by the application to access the database." defaultValue="Server=RICHARD-PC\RICHARD;Database=XDb;User Id=ribo_job;Password=zmkmzmkm;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\MyPractices\\Projects\\XBDAppPortals\\DotNETFRK\\WebForm\\XBDAppPortalWebFormAppSln\\XBDAppPortalWebFormAppPrj\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='connStr']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,11 @@
+C:\MyPractices\Projects\XBDAppPortals\DotNETFRK\WebForm\XBDAppPortalWebFormAppSln\XBDAppPortalWebFormApp.BLL\bin\Release\XBDAppPortalWebFormApp.BLL.dll
+C:\MyPractices\Projects\XBDAppPortals\DotNETFRK\WebForm\XBDAppPortalWebFormAppSln\XBDAppPortalWebFormApp.BLL\bin\Release\XBDAppPortalWebFormApp.BLL.pdb
+C:\MyPractices\Projects\XBDAppPortals\DotNETFRK\WebForm\XBDAppPortalWebFormAppSln\XBDAppPortalWebFormApp.BLL\bin\Release\XBDAppPortalWebFormApp.DAL.dll
+C:\MyPractices\Projects\XBDAppPortals\DotNETFRK\WebForm\XBDAppPortalWebFormAppSln\XBDAppPortalWebFormApp.BLL\bin\Release\XBDAppWebFormApp.DTO.dll
+C:\MyPractices\Projects\XBDAppPortals\DotNETFRK\WebForm\XBDAppPortalWebFormAppSln\XBDAppPortalWebFormApp.BLL\bin\Release\XBDAppPortalWebFormApp.DAL.pdb
+C:\MyPractices\Projects\XBDAppPortals\DotNETFRK\WebForm\XBDAppPortalWebFormAppSln\XBDAppPortalWebFormApp.BLL\bin\Release\XBDAppWebFormApp.DTO.pdb
+C:\MyPractices\Projects\XBDAppPortals\DotNETFRK\WebForm\XBDAppPortalWebFormAppSln\XBDAppPortalWebFormApp.BLL\obj\Release\XBDAppPortalWebFormApp.BLL.csprojAssemblyReference.cache
+C:\MyPractices\Projects\XBDAppPortals\DotNETFRK\WebForm\XBDAppPortalWebFormAppSln\XBDAppPortalWebFormApp.BLL\obj\Release\XBDAppPortalWebFormApp.BLL.csproj.CoreCompileInputs.cache
+C:\MyPractices\Projects\XBDAppPortals\DotNETFRK\WebForm\XBDAppPortalWebFormAppSln\XBDAppPortalWebFormApp.BLL\obj\Release\XBDAppPortalWebFormApp.BLL.csproj.CopyComplete
+C:\MyPractices\Projects\XBDAppPortals\DotNETFRK\WebForm\XBDAppPortalWebFormAppSln\XBDAppPortalWebFormApp.BLL\obj\Release\XBDAppPortalWebFormApp.BLL.dll
+C:\MyPractices\Projects\XBDAppPortals\DotNETFRK\WebForm\XBDAppPortalWebFormAppSln\XBDAppPortalWebFormApp.BLL\obj\Release\XBDAppPortalWebFormApp.BLL.pdb
